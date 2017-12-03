@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Power Button</string>
+    <string name="app_cp">Power Button (Main)</string>
     <string name="explanation">When clicking on the button above, you will be prompt to give this application administrator permission, which is required to turn off device screen.\n\nAfter giving permission, you can add the widget to home page which will turn off device when pressed.\n\nThank you from using EXA Lab product(s), more awesome application would be available here: </string>
     <string name="grant">Grant</string>
     <string name="uninstall">Uninstall</string>

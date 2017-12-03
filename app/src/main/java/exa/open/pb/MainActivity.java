@@ -35,13 +35,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button button3;
     Button button4;
 
-    //boolean value of sharedpreferences
+    //value to determine View Flipper state
     protected static boolean isViewFlipped = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        setTitle(R.string.app_name);
 
         //Initialize the Administrator component
 
